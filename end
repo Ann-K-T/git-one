@@ -1,0 +1,23 @@
+[33mcommit fa6eea10d1fa5a594a158fe1a0d972b61724ac0e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Ann Thomas <ann-thomas2010@hotmail.com>
+Date:   Sun Feb 9 09:30:18 2025 -0500
+
+    change tile second time
+
+[33mcommit 1bf7fbad23fd30907e52bc82e082e1ce06aaaffe[m
+Author: Ann Thomas <ann-thomas2010@hotmail.com>
+Date:   Sun Feb 9 09:20:20 2025 -0500
+
+    change font size
+
+[33mcommit d87c86906c126a45c4bb8001e0f154e7d7242f78[m
+Author: Ann Thomas <ann-thomas2010@hotmail.com>
+Date:   Sun Feb 9 09:18:53 2025 -0500
+
+    add index.htm title
+
+[33mcommit 8fb3289f67b84485815a23a253c7e19b18a04eb2[m
+Author: Ann Thomas <ann-thomas2010@hotmail.com>
+Date:   Sun Feb 9 09:16:12 2025 -0500
+
+    create index.html, script.js, style.css
